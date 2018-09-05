@@ -1,3 +1,3 @@
 # gitGuide
 * git guide 공동 번역
-* GitGitGit!
+* 조별 일감 나누기
